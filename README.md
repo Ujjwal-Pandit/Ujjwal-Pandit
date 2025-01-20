@@ -61,9 +61,9 @@ Here are some of my notable projects:
 ## Education
 
 * **Worcester Polytechnic Institute:** Master of Science in Data Science (Fall 2024 - Fall 2025)
-   - [View Master's Transcript](https://drive.google.com/file/d/17Iiii0YyCB7LfoCCLl-PYf32q4-902rI/view?usp=sharing)
+   
 * **Northern Kentucky University:** Bachelor of Science in Data Science (Fall 2021 - Spring 2024)
-   - [View Bachelor's Transcript](https://drive.google.com/file/d/1gTADb6izei4q-td-ZevLZ82hsbnrDH67/view?usp=sharing)
+   
 
 ## GitHub Stats
 
